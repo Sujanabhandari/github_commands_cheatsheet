@@ -12,4 +12,5 @@ function App() {
     </div>
   );
 }
-$ git commit --amendexport default App;
+
+export default App;
