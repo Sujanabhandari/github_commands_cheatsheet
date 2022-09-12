@@ -4,8 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h3>GIT Rebase</h3>
-     <h3>GIT Rebase2</h3>
+     <h3>GIT Stash</h3>
+     <p>THis is information</p>
+     <p>THis is more information</p>
+     <p>THis is example of squash</p>
+     <p>THis is more example of squash command</p>
+     <p>THis is more example of squash command with rebase command</p>
+      <p>THis is more example of Stash</p>
     </div>
   );
 }
